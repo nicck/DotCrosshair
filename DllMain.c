@@ -1,4 +1,4 @@
-#include <Windows.h>
+#include <windows.h>
 #include <wchar.h>
 
 INT g_iSize = 0;

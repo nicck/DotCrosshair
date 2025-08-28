@@ -1,5 +1,5 @@
 #include <initguid.h>
-#include <Windows.h>
+#include <windows.h>
 #include <shlobj.h>
 #include <knownfolders.h>
 
